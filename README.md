@@ -10,12 +10,12 @@ This is the code repository for [Hands-On Linux for Architects](https://www.pack
 It is very important to understand the exibility of an infrastructure when designing an efficient environment. In this book, you will cover everything from Linux components and functionalities through to hardware and software support, which will help you to implement and tune effective Linux-based solutions.
 
 This book covers the following exciting features:
-Study the basics of infrastructure design and the steps involved 
-Expand your current design portfolio with Linux-based solutions 
-Discover open source software-based solutions to optimize your architecture 
-Understand the role of high availability and fault tolerance in a resilient design 
-Identify the role of containers and how they improve your continuous integration and continuous deployment pipelines 
-Gain insights into optimizing and making resilient and highly available designs by applying industry best practices 
+Study the basics of infrastructure design and the steps involved
+Expand your current design portfolio with Linux-based solutions
+Discover open source software-based solutions to optimize your architecture
+Understand the role of high availability and fault tolerance in a resilient design
+Identify the role of containers and how they improve your continuous integration and continuous deployment pipelines
+Gain insights into optimizing and making resilient and highly available designs by applying industry best practices
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789534100) today!
 
